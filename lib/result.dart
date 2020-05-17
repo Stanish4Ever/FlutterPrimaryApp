@@ -9,6 +9,7 @@ class result extends StatelessWidget
       children: <Widget>[
         Container( width: double.infinity, 
           margin: EdgeInsets.all(16),
+               
           child:Text (" You did it, you son of a Good Bitch!", 
         style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold,), 
         textAlign: TextAlign.center ,)),
